@@ -17,7 +17,7 @@ client.on('message', message => {
     }
 });
 
-client.login('MzUwNzM4ODg2NTMzNzA5ODI1.DKAwGw.DtgtDNBmg7ruLcSZ0PYDpbnumN0');
+client.login('___________________________________________________');
 
 client.on('message', message => {
     if (message.content === 'hi') {
