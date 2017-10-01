@@ -6,18 +6,13 @@ client.on('ready', () => {
     console.log('Logged in to Jay-Bot!');
 });
 
-{
-    "client_id";
-    ["350738886533709825"]
-}
-
 client.on('message', message => {
     if (message.content === 'j!ping') {
         message.reply('pong');
     }
 });
 
-client.login('MzUwNzM4ODg2NTMzNzA5ODI1.DKAwGw.DtgtDNBmg7ruLcSZ0PYDpbnumN0');
+client.login('----------------------');
 
 client.on('message', message => {
     if (message.content === 'hi') {
