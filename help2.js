@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-client.login('MzUwNzM4ODg2NTMzNzA5ODI1.DKAwGw.DtgtDNBmg7ruLcSZ0PYDpbnumN0');
+client.login('');
 client.on('ready', () => {
     console.log('I am ready!');
     console.log('Logged in to Jay-Bot!');
