@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 require('./util/eventLoader.js')(client);
 
-client.login('MzUwNzM4ODg2NTMzNzA5ODI1.DYiWHw.Tc4e2MLjjF8yoFZK-NgMl0MzAes');
+client.login('________________________________');
 
 
 
